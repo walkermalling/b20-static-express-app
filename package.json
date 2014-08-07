@@ -1,0 +1,13 @@
+{
+  "name": "b20-static-express-server",
+  "version": "0.0.0",
+  "description": "A static express server.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walkermalling/b20-static-express-server"
+  },
+  "dependencies": {
+    "express": "^4.8.0"
+  }
+}
