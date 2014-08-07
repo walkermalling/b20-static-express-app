@@ -2,7 +2,7 @@
   "name": "b20-static-express-server",
   "version": "0.0.0",
   "description": "A static express server.",
-  "main": "static.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/walkermalling/b20-static-express-server"
