@@ -1,0 +1,29 @@
+body{
+  font-family: 'Garamond', serif;
+  font-size: 16px;
+  color: rgba(20,85,110,1);
+}
+
+#wrapper {
+  margin: 20px auto;
+  min-width:340px;
+  max-width:960px;
+  min-height:500px;
+  border-color: rgb(22, 46, 52);
+  border-radius:3px;
+}
+
+h1,h2,h3{
+  margin: 0 0 20px 0;
+}
+
+h1{
+  text-align:center;
+}
+a {
+  color: rgb(33, 89, 82);
+}
+a:hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,8 @@
+{
+  "title" : "sample json file",
+  "data" : {
+    "foo" : "unicorns",
+    "bar" : "rainbows",
+    "baz" : "butterflies"
+  }
+}
